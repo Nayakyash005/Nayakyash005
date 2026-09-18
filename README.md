@@ -64,6 +64,7 @@ The goal is to learn distributed systems by actually building the components rat
 
 **Roadmap:**
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=Nayakyash005)](https://git.io/streak-stats)
 ```text
 Replication
     ↓
@@ -80,4 +81,3 @@ Multi-Region Simulation
 Nayakyash005/Nayakyash005 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-[![GitHub Streak](https://streak-stats.demolab.com?user=Nayakyash005)](https://git.io/streak-stats)
